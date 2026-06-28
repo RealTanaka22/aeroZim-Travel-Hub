@@ -1,0 +1,13 @@
+airport_id,name,city,iata,icao,latitude,longitude,elevation_ft,type,runways,status
+ZW001,Robert Gabriel Mugabe International Airport,Harare,HRE,FVHA,-17.9318,31.0928,4887,International,2,Active
+ZW002,Joshua Mqabuko Nkomo International Airport,Bulawayo,BUQ,FVBU,-20.0174,28.6179,4359,International,1,Active
+ZW003,Victoria Falls International Airport,Victoria Falls,VFA,FVFA,-18.0959,25.8390,3490,International,1,Active
+ZW004,Gweru-Thornhill Air Base,Gweru,GWE,FVTL,-19.4364,29.8619,4687,Domestic,1,Active
+ZW005,Buffalo Range Airport,Chiredzi,BFO,FVCZ,-21.0082,31.5786,1237,Domestic,1,Active
+ZW006,Mutare Airport,Mutare,UTA,FVMU,-18.9975,32.6273,3410,Domestic,1,Active
+ZW007,Kariba Airport,Kariba,KAB,FVKB,-16.5198,28.8850,1706,Domestic,1,Active
+ZW008,Masvingo Airport,Masvingo,MVZ,FVMV,-20.0553,30.8591,3595,Domestic,1,Active
+ZW009,Hwange National Park Airport,Hwange,HWN,FVWN,-18.6299,27.0210,3543,Domestic,1,Active
+ZW010,Binga Airport,Binga,,FVBI,-17.6167,27.3333,1650,Regional,1,Active
+ZW011,Zvishavane Airport,Zvishavane,,FVSH,-20.3333,30.0667,3280,Regional,1,Active
+ZW012,Harare Charles Prince Airport,Harare,,FVCP,-17.7517,30.9247,4783,Private/GA,1,Active

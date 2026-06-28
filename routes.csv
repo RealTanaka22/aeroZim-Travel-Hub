@@ -1,0 +1,19 @@
+route_id,airline,from_airport,to_airport,from_city,to_city,departure,arrival,frequency,price_usd,aircraft,delay_risk
+R001,Air Zimbabwe,ZW001,ZW002,Harare,Bulawayo,07:00,08:10,Daily,85,ATR 72,Low
+R002,Air Zimbabwe,ZW002,ZW001,Bulawayo,Harare,09:00,10:10,Daily,85,ATR 72,Low
+R003,Air Zimbabwe,ZW001,ZW003,Harare,Victoria Falls,10:30,12:00,Daily,120,ATR 72,Medium
+R004,Air Zimbabwe,ZW003,ZW001,Victoria Falls,Harare,13:00,14:30,Daily,120,ATR 72,Medium
+R005,Fastjet Zimbabwe,ZW001,ZW003,Harare,Victoria Falls,08:00,09:30,Daily,110,ATR 72,Low
+R006,Fastjet Zimbabwe,ZW003,ZW001,Victoria Falls,Harare,10:30,12:00,Daily,110,ATR 72,Low
+R007,Fastjet Zimbabwe,ZW002,ZW003,Bulawayo,Victoria Falls,11:00,11:50,Daily,75,ATR 72,Low
+R008,Fastjet Zimbabwe,ZW003,ZW002,Victoria Falls,Bulawayo,12:50,13:40,Daily,75,ATR 72,Low
+R009,Air Zimbabwe,ZW001,ZW007,Harare,Kariba,07:30,08:20,Mon-Fri,95,Cessna 208,High
+R010,Air Zimbabwe,ZW007,ZW001,Kariba,Harare,09:00,09:50,Mon-Fri,95,Cessna 208,High
+R011,Air Zimbabwe,ZW001,ZW004,Harare,Gweru,08:00,08:45,Wed-Fri,70,Cessna 208,Medium
+R012,Air Zimbabwe,ZW001,ZW008,Harare,Masvingo,09:00,09:55,Tue-Thu,80,Cessna 208,Medium
+R013,Air Zimbabwe,ZW001,ZW009,Harare,Hwange,10:00,11:15,Daily,130,ATR 72,Medium
+R014,Air Zimbabwe,ZW009,ZW001,Hwange,Harare,12:15,13:30,Daily,130,ATR 72,Medium
+R015,South African Airways,ZW001,JNB,Harare,Johannesburg,06:00,08:00,Daily,210,Boeing 737,Low
+R016,Kenya Airways,ZW001,NBO,Harare,Nairobi,22:00,05:30+1,Daily,380,Boeing 737,Medium
+R017,Ethiopian Airlines,ZW001,ADD,Harare,Addis Ababa,23:30,06:00+1,Daily,420,Boeing 737,Low
+R018,Emirates,ZW001,DXB,Harare,Dubai,22:45,08:30+1,Daily,890,Boeing 777,Low

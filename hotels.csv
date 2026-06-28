@@ -1,0 +1,28 @@
+hotel_id,name,city,airport_id,latitude,longitude,stars,price_per_night_usd,rooms,amenities,distance_km
+H001,Meikles Hotel,Harare,ZW001,-17.8316,31.0489,5,180,318,"WiFi,Pool,Gym,Restaurant,Bar,Spa",8.2
+H002,Rainbow Towers Hotel,Harare,ZW001,-17.8247,31.0505,4,120,371,"WiFi,Pool,Restaurant,Bar,Conference",7.9
+H003,Cresta Lodge,Harare,ZW001,-17.7964,31.1347,4,95,150,"WiFi,Pool,Restaurant,Bar",3.1
+H004,Holiday Inn Harare,Harare,ZW001,-17.8286,31.0535,3,85,196,"WiFi,Restaurant,Bar,Gym",8.0
+H005,Bronte Hotel,Harare,ZW001,-17.8239,31.0378,4,110,62,"WiFi,Restaurant,Bar,Garden",9.1
+H006,The Victoria Hotel,Bulawayo,ZW002,-20.1575,28.5776,4,130,100,"WiFi,Pool,Restaurant,Bar",5.8
+H007,Cresta Churchill,Bulawayo,ZW002,-20.1439,28.6019,4,95,75,"WiFi,Pool,Restaurant,Bar,Gym",4.2
+H008,Holiday Inn Bulawayo,Bulawayo,ZW002,-20.1461,28.6028,3,80,120,"WiFi,Restaurant,Bar",4.0
+H009,Nesbitt Castle,Bulawayo,ZW002,-20.1697,28.5853,4,150,10,"WiFi,Garden,Restaurant,Bar",6.2
+H010,The Kingdom at Victoria Falls,Victoria Falls,ZW003,-17.9244,25.8367,5,320,294,"WiFi,Pool,Casino,Spa,Restaurant,Bar",3.1
+H011,Victoria Falls Hotel,Victoria Falls,ZW003,-17.9322,25.8405,5,450,161,"WiFi,Pool,Spa,Restaurant,Bar,Golf",2.8
+H012,Elephant Hills Resort,Victoria Falls,ZW003,-17.9133,25.8282,5,280,276,"WiFi,Pool,Golf,Spa,Restaurant,Bar",4.2
+H013,Rainbow Hotel Victoria Falls,Victoria Falls,ZW003,-17.9258,25.8399,4,160,108,"WiFi,Pool,Restaurant,Bar",3.0
+H014,Cresta Sprayview Hotel,Victoria Falls,ZW003,-17.9261,25.8357,3,110,72,"WiFi,Pool,Restaurant,Bar",3.5
+H015,Midlands Hotel,Gweru,ZW004,-19.4581,29.8189,3,65,40,"WiFi,Restaurant,Bar",7.8
+H016,Fairmile Hotel,Gweru,ZW004,-19.4496,29.8193,2,45,30,"WiFi,Restaurant",7.2
+H017,Chiredzi Hotel,Chiredzi,ZW005,-21.0395,31.6620,2,55,25,"WiFi,Restaurant,Bar",10.1
+H018,Mutare Club,Mutare,ZW006,-18.9703,32.6510,3,70,35,"WiFi,Restaurant,Bar,Tennis",4.0
+H019,Christmas Pass Hotel,Mutare,ZW006,-18.9611,32.6447,3,80,45,"WiFi,Pool,Restaurant,Bar",5.2
+H020,Kariba Breeze Hotel,Kariba,ZW007,-16.5167,28.8000,4,220,30,"WiFi,Pool,Restaurant,Bar,Boat Trips",5.1
+H021,Cutty Sark Hotel,Kariba,ZW007,-16.5200,28.8050,3,140,22,"WiFi,Pool,Restaurant,Bar",5.5
+H022,Lake View Inn,Kariba,ZW007,-16.5180,28.7950,3,120,18,"WiFi,Restaurant,Bar,Fishing",5.8
+H023,Great Zimbabwe Hotel,Masvingo,ZW008,-20.2745,30.9337,3,90,52,"WiFi,Pool,Restaurant,Bar",19.2
+H024,Flamboyant Hotel,Masvingo,ZW008,-20.0667,30.8333,3,70,30,"WiFi,Restaurant,Bar",1.4
+H025,Hwange Safari Lodge,Hwange,ZW009,-18.6359,26.4899,4,380,102,"WiFi,Pool,Safari,Restaurant,Bar",51.0
+H026,The Hide Safari Camp,Hwange,ZW009,-18.8667,26.6000,5,650,12,"WiFi,Pool,Safari,Restaurant,Spa",67.0
+H027,Deteema Springs Camp,Hwange,ZW009,-18.5833,27.0000,4,420,8,"WiFi,Safari,Restaurant,Bar",6.2
